@@ -68,9 +68,7 @@ async def send_all(client, message):
     except socket.gaierror as error:
         await m.edit(str(error))
         s.close()
-
-    print("finished")
-    await m.edit(m.text + "\n\nfinished Scanning")
+    await m.reply("finished Scanning")
 
 add_command_help(
 

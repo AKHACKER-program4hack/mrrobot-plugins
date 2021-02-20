@@ -19,7 +19,12 @@ I assume you will read this whole README.md file before continuing.
 
 ## Installing
 
-*how to install plugins in MR.Robot* :
+## *how to install MR.ROBOT Userbot* :
+
+<a href="https://youtu.be/ifkGhxhlV6Q"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/ifkGhxhlV6Q"><img src="https://img.shields.io/youtube/views/ifkGhxhlV6Q?style=social"></a>
+
+# *how to install plugins in MR.Robot* :
 
 <details>
   <summary> Video Tutorial </summary>
@@ -82,5 +87,6 @@ This example is only for Pyrogram on_message events.
 *  [AKHACKER](https://github.com/AKHACKER-program4hack) Owner Of the Userbot. 
 
 ---
+
 
 
